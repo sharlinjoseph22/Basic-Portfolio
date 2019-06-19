@@ -1,0 +1,183 @@
+.nav {
+  background: #ffffff;
+  height: 36px;
+  position: relative;
+  padding: 20px;
+  border: 10px;
+  margin: 0 auto;
+  width: 100%; }
+
+.nav-ul {
+  max-width: 100%;
+  list-style-type: none;
+  float: right;
+  margin-right: 300px; 
+  margin-top: -13px;
+}
+
+  .nav-ul-li {
+    display: inline-block;
+    max-width: 30%;
+    padding: 20px;
+    margin: 10px;
+    color: #777777; }
+
+  .nav-ul-li:hover {
+    background: #4aaaa5; }
+
+.name {
+  color: #ffffff;
+  background: #4aaaa5;
+  padding: 13px;
+  border: 10px;
+  margin: -28px;
+  display: inline-block;
+  position: absolute;
+  top: 82%;
+  left: 24%;
+  transform: translate(-10%, -65%);
+  letter-spacing: 2px;
+  text-transform: uppercase; }
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #666666;
+    color: white;
+    text-align: center;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    padding: 20px;
+    font-size: 10px;  }
+
+    .main {
+      margin: auto;
+      width: 57%;
+      border: 2px solid #dddddd;
+      padding: 10px;
+      background-color: #ffffff;
+      height: 500px;
+      
+    }
+
+    .mainP {
+      margin: auto;
+      width: 57%;
+      border: 2px solid #dddddd;
+      padding: 10px;
+      background-color: #ffffff;
+      height: 600px;
+      
+    }
+
+    .aboutMe,.contact {
+      color: #4aaaa5;
+      font-family: 'Georgia', Times, Times New Roman, serif;
+      padding: 3px;
+      margin: 8px;
+      font-size: 27px;
+    }
+    .portfolio {
+      color: #4aaaa5;
+      font-family: 'Georgia', Times, Times New Roman, serif;
+      padding: 3px;
+      margin: 8px;
+      font-size: 20px;
+    }
+
+    .POne, .PTwo, .PThree {
+    padding: 10px;
+    font: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-color: #777777;
+
+    }
+    .imgindex{
+      float:left;
+      width: 250px;
+      padding: 10px;
+      
+    }
+    .full-container {
+      background-image: url(../images/papyrus.png)
+    }
+
+   html, body {
+     margin: 0px;
+   }
+  
+   .line {
+     color: #777777; 
+   }
+   .lineP{
+    color: #777777;
+    margin: -12px;
+   }
+
+   .labelname {
+     float:left;
+   }
+
+   .namebox{
+  width: 99%; 
+   }
+
+  .emailbox{ 
+    width: 99%; 
+  }
+
+  .messagebox{
+    width: 99%; 
+    height: 200px;
+
+  }
+  .submit {
+    background-color:#4aaaa5;
+    color: white;
+    width: 100px;
+    height: 38px;
+    font-size: 15px;
+
+  }
+  
+  .Oneimage {
+    padding: 30px;
+    width: 141px;
+    height:141px;
+    float: left;
+    margin-top: -5px;
+    margin-left: -21px;
+  }
+
+  .Twoimage {
+    padding: 30px;
+    width: 141px;
+    height: 141px;
+    margin-left: -39px;
+    margin-top: -5px;
+  }
+
+  .Threeimage{
+    padding: 30px;
+    width: 141px;
+    height: 141px;
+    float: left;
+    margin-left: -22px;
+    margin-top: -45px;
+  }
+
+  .Fourimage {
+    padding: 30px;
+    width: 141px;
+    height: 141px;
+    margin-left: -40px;
+    margin-top: -46px;}
+
+    .Fiveimage {
+    padding: 30px;
+    width: 141px;
+    height: 141px;
+    float: left;
+    margin-top: -50px;
+    margin-left: -23px;
+    }
